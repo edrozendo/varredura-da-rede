@@ -8,8 +8,10 @@
 
 ![alt tag](http://s33.postimg.org/4za23nuhb/nwatch2.png)
 
-
 nWatch is a handy tool for host discovery, portscanning and operating system fingerprinting.
+
+###### Demo video
+[![asciicast](https://asciinema.org/a/84830.png)](https://asciinema.org/a/84830?speed=1.2)
 
 
 ###### Requirements
