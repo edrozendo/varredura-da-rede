@@ -29,3 +29,4 @@ Then you can download nWatch by cloning the [Git](https://github.com/suraj-root/
     cd nWatch/
     python nwatch.py 
     
+For educational purposes only.
